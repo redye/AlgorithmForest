@@ -3,5 +3,6 @@
     <pages>
         <page name='RemoveDuplicates'/>
         <page name='Rotate'/>
+        <page name='MergeLinkedList'/>
     </pages>
 </playground>
