@@ -5,5 +5,6 @@
         <page name='Rotate'/>
         <page name='MergeLinkedList'/>
         <page name='MaxArea'/>
+        <page name='ClimStairs'/>
     </pages>
 </playground>
