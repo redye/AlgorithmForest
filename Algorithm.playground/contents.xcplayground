@@ -4,5 +4,6 @@
         <page name='RemoveDuplicates'/>
         <page name='Rotate'/>
         <page name='MergeLinkedList'/>
+        <page name='MaxArea'/>
     </pages>
 </playground>
