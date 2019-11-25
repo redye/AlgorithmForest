@@ -7,5 +7,6 @@
         <page name='MergeLinkedList'/>
         <page name='Rotate'/>
         <page name='TwoSum'/>
+        <page name='ThreeSum'/>
     </pages>
 </playground>
