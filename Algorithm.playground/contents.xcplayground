@@ -2,9 +2,10 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='RemoveDuplicates'/>
-        <page name='Rotate'/>
-        <page name='MergeLinkedList'/>
-        <page name='MaxArea'/>
         <page name='ClimStairs'/>
+        <page name='MaxArea'/>
+        <page name='MergeLinkedList'/>
+        <page name='Rotate'/>
+        <page name='TwoSum'/>
     </pages>
 </playground>
