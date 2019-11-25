@@ -21,7 +21,7 @@ public func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
 
 /// hash 表法
 /// 时间复杂度 O(n)
-/// 空间复杂度 O(1)
+/// 空间复杂度 O(n)
 public func twoSum2(_ nums: [Int], _ target: Int) -> [Int] {
     if nums.count < 2 {
         return []
