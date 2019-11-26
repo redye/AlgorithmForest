@@ -8,5 +8,6 @@
         <page name='Rotate'/>
         <page name='TwoSum'/>
         <page name='ThreeSum'/>
+        <page name='TrapRainWater'/>
     </pages>
 </playground>
