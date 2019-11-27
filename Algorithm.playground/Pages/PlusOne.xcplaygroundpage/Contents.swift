@@ -2,6 +2,6 @@
 
 import Foundation
 
-var str = "Hello, playground"
+print(plusOne([1, 2, 3, 9]))
 
-//: [Next](@next)
+print(plusOne([9 ,9]))

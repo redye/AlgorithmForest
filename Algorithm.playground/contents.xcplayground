@@ -9,5 +9,6 @@
         <page name='TwoSum'/>
         <page name='ThreeSum'/>
         <page name='TrapRainWater'/>
+        <page name='PlusOne'/>
     </pages>
 </playground>
