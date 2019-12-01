@@ -28,10 +28,12 @@ public func createLinkedList(_ nums: [Int]) -> ListNode {
 
 public func printLinkedList(_ node: ListNode?)  {
     var head = node
+    var s = [Int]()
     while head != nil {
-        print(head!.val)
+        s.append(head!.val)
         head = head?.next
     }
+    print(s)
 }
 
 /// 指针法
