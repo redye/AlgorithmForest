@@ -2,13 +2,14 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='RemoveDuplicates'/>
-        <page name='ClimStairs'/>
-        <page name='MaxArea'/>
-        <page name='MergeLinkedList'/>
         <page name='Rotate'/>
-        <page name='TwoSum'/>
+        <page name='MergeLinkedList'/>
+        <page name='MaxArea'/>
+        <page name='ClimStairs'/>
+        <page name='PlusOne'/>
         <page name='ThreeSum'/>
         <page name='TrapRainWater'/>
-        <page name='PlusOne'/>
+        <page name='TwoSum'/>
+        <page name='ReverseInteger'/>
     </pages>
 </playground>
