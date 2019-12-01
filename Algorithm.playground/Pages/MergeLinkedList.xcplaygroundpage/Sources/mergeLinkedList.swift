@@ -26,6 +26,14 @@ public func createLinkedList(_ nums: [Int]) -> ListNode {
     return head
 }
 
+public func printLinkedList(_ node: ListNode?)  {
+    var head = node
+    while head != nil {
+        print(head!.val)
+        head = head?.next
+    }
+}
+
 /// 指针法
 /// 时间复杂度 O(n + m)
 /// 空间复杂度 O(1)
