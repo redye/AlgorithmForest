@@ -16,4 +16,5 @@
 5. 接雨水 [trapping rain water](https://leetcode-cn.com/problems/trapping-rain-water/) ✨✨✨
 6. 非空数组值加一 [plus one](https://leetcode-cn.com/problems/plus-one/) ✨
 7. 变位词 [valid anagram](https://leetcode-cn.com/problems/valid-anagram/) ✨
+8. 变位词 [group anagrams](https://leetcode-cn.com/problems/group-anagrams/) ✨
 

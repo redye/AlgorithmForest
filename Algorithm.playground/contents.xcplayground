@@ -12,5 +12,6 @@
         <page name='TwoSum'/>
         <page name='ReverseInteger'/>
         <page name='ValidAnagram'/>
+        <page name='GroupAnagram'/>
     </pages>
 </playground>

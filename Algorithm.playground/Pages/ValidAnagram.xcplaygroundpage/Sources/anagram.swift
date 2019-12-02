@@ -50,7 +50,7 @@ public func isAnagram2(_ s: String, _ t: String) -> Bool {
     return true
 }
 
-/// 数组
+/// 数组，使用固定大小的数组
 /// 时间复杂度 O(n)
 /// 空间复杂度 O(1)
 public func isAnagram3(_ s: String, _ t: String) -> Bool {
