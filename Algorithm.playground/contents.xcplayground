@@ -11,6 +11,6 @@
         <page name='TrapRainWater'/>
         <page name='TwoSum'/>
         <page name='ReverseInteger'/>
-        <page name='ReverseLinkedList'/>
+        <page name='ValidAnagram'/>
     </pages>
 </playground>
