@@ -43,11 +43,11 @@ public func lowestCommonAncestor2(_ root: TreeNode?, _ p: TreeNode, _ q: TreeNod
     var p2: TreeNode? = p
     while p2 != nil {
         ancestorP.append(p2!)
-        p2 = parent[p2!]
+        p2 = parent[p2!] ?? nil
     }
     var q2: TreeNode? = q
-    while !ancestorP.contains(q2) {
-        q2 = parent[q2!]
+    while q2 != nil && !ancestorP.contains(q2!) {
+        q2 = parent[q2!] ?? nil
     }
     return q2
 }

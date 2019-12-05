@@ -20,4 +20,6 @@
 9. 二叉树中序遍历 [binary tree inorder traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) ✨✨
 10. 二叉树前序遍历 [binary tree preorder traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) ✨✨
 11. 二叉树后序遍历 [binary tree postorder traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) ✨✨
-12. 二叉树最近的公共祖先 [lowest common ancestor of a binary tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) ✨✨
+12. 二叉树层次遍历 [binary tree level order order traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) ✨✨
+13. 二叉树最近的公共祖先 [lowest common ancestor of a binary tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) ✨✨
+14. 从前序与中序遍历序列构造二叉树 [construct binary tree from preorder and inorder traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ✨✨
