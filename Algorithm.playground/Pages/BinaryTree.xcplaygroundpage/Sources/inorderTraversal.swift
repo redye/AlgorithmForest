@@ -20,7 +20,7 @@ public func inorderTraversal(_ root: TreeNode?) -> [Int] {
     return result
 }
 
-/// 栈：根节点入栈 左子树入栈
+/// 栈：根节点入栈 当前节点=当前节点的左子树
 /// 时间复杂度 O(nk)
 /// 空间复杂度 O(n)
 public func inorderTraversal2(_ root: TreeNode?) -> [Int] {
@@ -38,3 +38,4 @@ public func inorderTraversal2(_ root: TreeNode?) -> [Int] {
     }
     return result
 }
+

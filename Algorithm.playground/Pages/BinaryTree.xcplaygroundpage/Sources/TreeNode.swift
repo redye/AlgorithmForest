@@ -11,3 +11,18 @@ public class TreeNode {
         self.right = nil
     }
 }
+
+extension TreeNode: Equatable {
+    static public func == (lhs: TreeNode, rhs: TreeNode) -> Bool {
+        return lhs.val == rhs.val
+    }
+}
+
+extension TreeNode: Hashable {
+    public func hash(into hasher: inout Hasher) {
+        hasher.combine(val)
+    }
+}
+
+extension TreeNode {
+}
