@@ -29,8 +29,11 @@ public func maxArea(_ nums: [Int]) -> Int {
 /**
  * 收敛法
  * area = (j - i) * min(height[i], height[j])
- * 短板向内移动 min(height[i], height[j]) 可能变大
- * 长板向内移动 min(height[i], height[j]) 可能不变或变小
+ * 短板向内移动 min(height[i], height[j]) 可能变大，盛水宽度变小，盛水面积可能变大
+ * 长板向内移动 min(height[i], height[j]) 可能不变或变小，盛水宽度变小，盛水面积不可能变大
+ * 所以短板向内移动
+ * 时间复杂度 O(n)
+ * 空间复杂度 O(1)
  */
 public func maxArea2(_ nums: [Int]) -> Int {
     if nums.count <= 0 {
