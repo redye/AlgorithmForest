@@ -2,17 +2,12 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='RemoveDuplicates'/>
-        <page name='Rotate'/>
-        <page name='MergeLinkedList'/>
-        <page name='MaxArea'/>
         <page name='ClimStairs'/>
-        <page name='PlusOne'/>
+        <page name='MaxArea'/>
+        <page name='Rotate'/>
+        <page name='TwoSum'/>
         <page name='ThreeSum'/>
         <page name='TrapRainWater'/>
-        <page name='TwoSum'/>
-        <page name='ReverseInteger'/>
-        <page name='ValidAnagram'/>
-        <page name='GroupAnagram'/>
-        <page name='BinaryTree'/>
+        <page name='PlusOne'/>
     </pages>
 </playground>
