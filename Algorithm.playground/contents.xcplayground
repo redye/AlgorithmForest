@@ -3,7 +3,7 @@
     <pages>
         <page name='RemoveDuplicates'/>
         <page name='Rotate'/>
-        <page name='MergeLinkedList'/>
+        <page name='LinkedList'/>
         <page name='MaxArea'/>
         <page name='ClimStairs'/>
         <page name='PlusOne'/>
@@ -14,5 +14,7 @@
         <page name='ValidAnagram'/>
         <page name='GroupAnagram'/>
         <page name='BinaryTree'/>
+        <page name='NaryTree'/>
+        <page name='MajorityElement'/>
     </pages>
 </playground>
