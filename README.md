@@ -23,4 +23,4 @@
 12. 二叉树层次遍历 [binary tree level order order traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) ✨✨
 13. 二叉树最近的公共祖先 [lowest common ancestor of a binary tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) ✨✨
 14. 从前序与中序遍历序列构造二叉树 [construct binary tree from preorder and inorder traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ✨✨
-15. 二叉树的最大深度[maximum depth of binary tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) ✨
+15. 二叉树的最大深度 [maximum depth of binary tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) ✨
