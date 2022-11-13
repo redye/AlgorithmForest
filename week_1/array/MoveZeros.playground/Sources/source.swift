@@ -30,7 +30,7 @@ public func moveZeroes(_ nums: inout [Int]) {
 /**
  * 优化
  * k 指向下一个不为0的位置
- * 遍历数组，nums[i]不为0时，nums[i] 余 nums[k] 交换
+ * 遍历数组，nums[i]不为0时，nums[i] 与 nums[k] 交换
  */
 public func moveZeroes2(_ nums: inout [Int]) {
     var k = 0
